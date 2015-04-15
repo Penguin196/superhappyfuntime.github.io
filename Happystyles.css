@@ -1,0 +1,20 @@
+.p1{
+	font-size: 80px;
+	font-family: Impact;
+	color:#00FF00;
+	text-align:center;
+}
+
+.p2{
+	font-size:80px;
+	font-family: "Gloria Hallelujah";
+}
+*{
+	background-color:#FFFF00;
+}
+h1{
+	font-family: 'Indie Flower';
+	background-color:#FF00FF;
+	color:#FFFF00;
+	font-size: 150px;
+}
